@@ -15,6 +15,7 @@ Xiao is a Discord bot coded in JavaScript with
 # [Home Server](https://discord.gg/mTr83zt) | [Invite](https://discordapp.com/api/oauth2/authorize?client_id=278305350804045834&permissions=104721601&scope=bot)
 
 ## Table of Contents
+- Remeber this is not the full code this dosnt have images command dm OmxproYT#7508 for the full code Sorry for inconvenience
 
 - [Copyright](#copyright)
 - [Permissions](#permissions)
